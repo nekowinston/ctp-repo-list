@@ -18,8 +18,6 @@ Press `"qy$` to yank the line above, then go down to alacritty, and call the `q`
 | https://github.com/catppuccin/cursors.git                 | System-wide/agnostic                                 |                               |
 | https://github.com/catppuccin/papirus-folders.git         | System-wide/agnostic                                 |                               |
 | https://github.com/catppuccin/xresources.git              | System-wide/agnostic                                 |                               |
-| https://github.com/catppuccin/contour.git                 | https://github.com/contour-terminal/contour          | unsure, pls check             |
-| https://github.com/catppuccin/github-readme-stats.git     |                                                      | maybe a preview?              |
 | https://github.com/catppuccin/alacritty.git               | https://github.com/alacritty/alacritty               |                               |
 | https://github.com/catppuccin/alfred.git                  | https://www.alfredapp.com                            | non-GH                        |
 | https://github.com/catppuccin/aliucord.git                | https://github.com/Aliucord/Aliucord                 |                               |
@@ -29,6 +27,7 @@ Press `"qy$` to yank the line above, then go down to alacritty, and call the `q`
 | https://github.com/catppuccin/cava.git                    | https://github.com/karlstav/cava                     |                               |
 | https://github.com/catppuccin/chrome.git                  | https://www.google.com/chrome                        | non-GH                        |
 | https://github.com/catppuccin/conky.git                   | https://github.com/brndnmtthws/conky                 |                               |
+| https://github.com/catppuccin/contour.git                 | https://github.com/contour-terminal/contour          | unsure, pls check             |
 | https://github.com/catppuccin/dark-reader.git             | https://github.com/darkreader/darkreader             |                               |
 | https://github.com/catppuccin/discord.git                 | https://discord.com                                  | non-GH                        |
 | https://github.com/catppuccin/duckduckgo.git              | https://duckduckgo.com                               | non-GH                        |
@@ -41,6 +40,7 @@ Press `"qy$` to yank the line above, then go down to alacritty, and call the `q`
 | https://github.com/catppuccin/foot.git                    | https://codeberg.org/dnkl/foot                       | non-GH, more recently updated |
 | https://github.com/catppuccin/fzf.git                     | https://github.com/junegunn/fzf                      |                               |
 | https://github.com/catppuccin/geany.git                   | https://github.com/geany/geany                       |                               |
+| https://github.com/catppuccin/github-readme-stats.git     | https://github.com/anuraghazra/github-readme-stats   |                               |
 | https://github.com/catppuccin/github.git                  | https://github.com                                   | that's pretty meta.           |
 | https://github.com/catppuccin/gnome-terminal.git          | https://wiki.gnome.org/Apps/Terminal                 | no clue if correct/applicable |
 | https://github.com/catppuccin/grub.git                    | https://www.gnu.org/software/grub/                   | non-GH, repo at savannah      |
