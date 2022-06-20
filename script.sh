@@ -8,6 +8,7 @@ declare -A REPOS=(
     ['https://github.com/catppuccin/cava.git']='https://github.com/karlstav/cava'
     ['https://github.com/catppuccin/chrome.git']='https://www.google.com/chrome'
     ['https://github.com/catppuccin/conky.git']='https://github.com/brndnmtthws/conky'
+    ['https://github.com/catppuccin/contour.git']='https://github.com/contour-terminal/contour'
     ['https://github.com/catppuccin/dark-reader.git']='https://github.com/darkreader/darkreader'
     ['https://github.com/catppuccin/discord.git']='https://discord.com'
     ['https://github.com/catppuccin/duckduckgo.git']='https://duckduckgo.com'
