@@ -1,3 +1,9 @@
+Secret vim macro to convert to the table below to the `script.sh` format:
+```
+dwi['Ea']ldthi='Ea'lC0j
+```
+press `"qyy` on the line above, then go to alacritty, and call the `q` macro.
+
 | Repo Clone URL                                            | Link URL                                             | notes                         |
 |-----------------------------------------------------------|------------------------------------------------------|-------------------------------|
 | https://github.com/catppuccin/.github.git                 | Internal                                             |                               |
