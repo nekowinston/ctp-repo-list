@@ -34,7 +34,7 @@ Press `"qy$` to yank the line above, then go down to alacritty, and call the `q`
 | https://github.com/catppuccin/dunst.git                   | https://github.com/dunst-project/dunst               |                               |
 | https://github.com/catppuccin/emacs.git                   | https://www.gnu.org/software/emacs/                  | non-GH                        |
 | https://github.com/catppuccin/fcitx5.git                  | https://fcitx-im.org                                 | non-GH                        |
-| https://github.com/catppuccin/firefox.git                 | https://www.mozilla.org/en-US/firefox/new/           | non-GH                        |
+| https://github.com/catppuccin/firefox.git                 | https://www.mozilla.org/en-US/firefox/               | non-GH                        |
 | https://github.com/catppuccin/fish.git                    | https://github.com/fish-shell/fish-shell             |                               |
 | https://github.com/catppuccin/floris-board.git            | https://github.com/florisboard/florisboard           |                               |
 | https://github.com/catppuccin/foot.git                    | https://codeberg.org/dnkl/foot                       | non-GH, more recently updated |
